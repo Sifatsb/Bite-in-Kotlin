@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Two</string>
+
+    <string-array name="blood_group">
+
+        <item>AB+</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>B+</item>
+        <item>AB-</item>
+
+
+    </string-array>
+
+</resources>
